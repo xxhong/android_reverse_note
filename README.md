@@ -9,5 +9,3 @@
 ##### 一、破解第一个安卓应用程序
 
 ​		当然是普通的注册登录开始了，源程序当然要自己写了
-
-![image-20190702204152090](/Users/xuxihong/Library/Application Support/typora-user-images/image-20190702204152090.png)
